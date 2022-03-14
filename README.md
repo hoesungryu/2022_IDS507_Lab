@@ -1,8 +1,7 @@
 # 2022_IDS507_Lab
 
-IDS507-00 고려대학교 대학원 일반공통(2022 봄학기) Lab session에 관한 페이지 입니다. 
+[IDS507-00 고려대학교 대학원 일반공통(2022 봄학기)](https://nova-country-685.notion.site/KU-Data-Science-Syllabus-2022-34ec147f97f541de81f9dd77331cb950) Lab session에 관한 페이지 입니다. <p>
 본 실습강의는 `2022년 4월 27일, 5월 02일, 5월 04일, 5월 09일` 에 걸쳐 `4회`간 `구글 코랩`을 사용하여 진행됩니다.
-[본 강의 실라버스](https://nova-country-685.notion.site/KU-Data-Science-Syllabus-2022-34ec147f97f541de81f9dd77331cb950)
 
 <br>
 
@@ -21,8 +20,7 @@ IDS507-00 고려대학교 대학원 일반공통(2022 봄학기) Lab session에 
 - 데이터 분석
 - 데이터 전처리
 - 관련 링크 
-> - 코랩링크 [![Open In Colab](https://colab.research.google.com/drive/1JLZLx2dwYyo-iKRN5RoGX2L97DJNsc7S?usp=sharing)
-
+> - 코랩링크 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JLZLx2dwYyo-iKRN5RoGX2L97DJNsc7S?usp=sharing)
 <br>
 
 ## 3. Lab03 
@@ -30,7 +28,8 @@ IDS507-00 고려대학교 대학원 일반공통(2022 봄학기) Lab session에 
 - 실제 데이터를 활용한 로지스틱 회귀분석
 - 모델 성능 측정 
 - 관련 링크 
-> - 코랩링크 [![Open In Colab](https://colab.research.google.com/drive/1ZsWRyzzn07A75tlMTV_SlO2isY6dOBjm?usp=sharing)
+> - 코랩링크 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZsWRyzzn07A75tlMTV_SlO2isY6dOBjm?usp=sharing)
+
 
 <br>
 
@@ -38,7 +37,7 @@ IDS507-00 고려대학교 대학원 일반공통(2022 봄학기) Lab session에 
 - Git 
 - GitHub
 - 관련링크 
-> - 노션링크 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2FIDS507-Lab01-38ff053bb89d4ebd8b69d110c322acce&count_bg=%23C83D3D&icon=notion.svg&icon_color=%23E7E7E7&title=Lab01&edge_flat=false)](https://aquamarine-pumpkin-ec6.notion.site/IDS507-Lab04-0a04f0e1ce154751aca49a145c3aacf2)
+> - 노션링크 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2FIDS507-Lab04-38ff053bb89d4ebd8b69d110c322acce&count_bg=%23C83D3D&icon=notion.svg&icon_color=%23E7E7E7&title=Lab01&edge_flat=false)](https://aquamarine-pumpkin-ec6.notion.site/IDS507-Lab04-0a04f0e1ce154751aca49a145c3aacf2)
 
 <br>
 
